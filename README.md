@@ -2,7 +2,7 @@
 
 > A web app for visualizing personalized Spotify data
 
-Built with a bunch of things, but to name a few:
+Built with a bunch of things, including:
 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [Create React App](https://github.com/facebook/create-react-app)
